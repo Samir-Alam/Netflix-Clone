@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# ✨NetFlix Clone
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Samir-Alam/Netflix-Clone?color=brightgreen)
+![GitHub forks](https://img.shields.io/github/forks/Samir-Alam/Netflix-Clone)
+![GitHub contributors](https://img.shields.io/github/contributors/Samir-Alam/Netflix-Clone)
+![GitHub Repo stars](https://img.shields.io/github/stars/Samir-Alam/Netflix-Clone?color=blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+>This is a NetFlix Clone build using HTML, CSS, JavaScript, ReactJs
+>
+>Hosted using Firebase Hosting 📃
+>
+>Used TMDB(The Movie Data Base) api for getting all the movie related information
+>
+>[Click Here to go to TMDB Docs](https://developers.themoviedb.org/3/getting-started/introduction)
 
-## Available Scripts
+## 💻 Tech Stack 
 
-In the project directory, you can run:
+**Client :** React, JavaScript, HTML, CSS
 
-### `npm start`
+**Extra :** axios, movie-trailer, react-youtube, TMDB api
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<hr>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Visit the Website : [Click here](https://netflix-clone-3a5f1.firebaseapp.com/)
 
-### `npm test`
+<hr>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📷 Screenshots
+- **Home Page**
 
-### `npm run build`
+![App Screenshot](https://i.pinimg.com/564x/71/6f/3d/716f3dfeea52b162152752e1c0ff4c9d.jpg)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Different Genre Section**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![App Screenshot](https://i.pinimg.com/564x/11/8f/bf/118fbf4363fbc551cc8f704c5a2202a4.jpg)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💁🏻‍♂️ Support
 
-### `npm run eject`
+For support, email samiralam2072001@gmail.com or join our Slack channel at [Samir Slack](https://join.slack.com/t/samirslack/shared_invite/zt-1enh0fzir-OX7uLo6vcoSZMVkEKjW1gw).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#### **Don't forget to star⭐ this repo**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🤙🏻 Contact
+Contact me using these social media handles
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Twitter Follow](https://img.shields.io/twitter/follow/Samiralam00?color=blue&label=Twitter&logo=Twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Samir-Alam?color=lightgrey&label=GitHub&logo=github&style=for-the-badge)
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/SamirWantsHelp?style=for-the-badge&label=Sub-Reddit&logo=reddit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?color=blue&style=for-the-badge)](https://www.linkedin.com/in/md-samir-9ba4351bb/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<hr>
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Thank You 😊
